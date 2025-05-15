@@ -1,11 +1,10 @@
 {
   "name": "Jump Hero",
   "short_name": "JumpHero",
-  "start_url": "./index.html",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4CAF50",
-  "description": "A fun running and coin-collecting game!",
   "icons": [
     {
       "src": "icon-192.png",
